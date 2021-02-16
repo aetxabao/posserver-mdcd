@@ -1,0 +1,16 @@
+c:\Users\baide\Desktop\PSP\posserver-mdcd\bin\Debug\net5.0\posserver-mdcd.exe
+c:\Users\baide\Desktop\PSP\posserver-mdcd\bin\Debug\net5.0\posserver-mdcd.deps.json
+c:\Users\baide\Desktop\PSP\posserver-mdcd\bin\Debug\net5.0\posserver-mdcd.runtimeconfig.json
+c:\Users\baide\Desktop\PSP\posserver-mdcd\bin\Debug\net5.0\posserver-mdcd.runtimeconfig.dev.json
+c:\Users\baide\Desktop\PSP\posserver-mdcd\bin\Debug\net5.0\posserver-mdcd.dll
+c:\Users\baide\Desktop\PSP\posserver-mdcd\bin\Debug\net5.0\ref\posserver-mdcd.dll
+c:\Users\baide\Desktop\PSP\posserver-mdcd\bin\Debug\net5.0\posserver-mdcd.pdb
+c:\Users\baide\Desktop\PSP\posserver-mdcd\obj\Debug\net5.0\posserver-mdcd.csprojAssemblyReference.cache
+c:\Users\baide\Desktop\PSP\posserver-mdcd\obj\Debug\net5.0\posserver-mdcd.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\baide\Desktop\PSP\posserver-mdcd\obj\Debug\net5.0\posserver-mdcd.AssemblyInfoInputs.cache
+c:\Users\baide\Desktop\PSP\posserver-mdcd\obj\Debug\net5.0\posserver-mdcd.AssemblyInfo.cs
+c:\Users\baide\Desktop\PSP\posserver-mdcd\obj\Debug\net5.0\posserver-mdcd.csproj.CoreCompileInputs.cache
+c:\Users\baide\Desktop\PSP\posserver-mdcd\obj\Debug\net5.0\posserver-mdcd.dll
+c:\Users\baide\Desktop\PSP\posserver-mdcd\obj\Debug\net5.0\ref\posserver-mdcd.dll
+c:\Users\baide\Desktop\PSP\posserver-mdcd\obj\Debug\net5.0\posserver-mdcd.pdb
+c:\Users\baide\Desktop\PSP\posserver-mdcd\obj\Debug\net5.0\posserver-mdcd.genruntimeconfig.cache
